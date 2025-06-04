@@ -13,3 +13,4 @@ Notes and usage details for html-now.github.io.
 - fix a small wording issue
 - clarify the setup steps
 - clarify the setup steps
+- fix a small wording issue
